@@ -1,4 +1,4 @@
-# Caricia de fuego azul
+# Caricia de fuego azul, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Caricia de fuego azul |
+| **Title** | Caricia de fuego azul, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-fuego-azul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Caricia de fuego azul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-fuego-azul/) |
+| **Get License** | [License this song: Caricia de fuego azul, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-fuego-azul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche brilla con tu fuego azul,
+> Nadie me enciende en la disco como tú,
+> You are my reina, cambiando mi mood,
+> Pégate lento y apágame la luz.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `8802bc3f429f576d06748aa3cd1a0929af8bb698d5f30ea98e73f5a8a31e9542` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
